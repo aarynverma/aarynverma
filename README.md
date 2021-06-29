@@ -8,7 +8,7 @@
 - 🌱 Learning Front end Web Development
 - 😄 Pronouns: He/Him
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
-- 📫 Reach me at: <a href="mailto:aryn1776@gmail.com">yashsharma1859@gmail.com</a>
+- 📫 Reach me at: <a href="mailto:aryn1776@gmail.com">aryn1776@gmail.com</a>
 
 ### ⚡ Github Stats
 
