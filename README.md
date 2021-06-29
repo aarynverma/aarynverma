@@ -13,7 +13,7 @@
 ### ⚡ Github Stats
 
 <a href="https://github.com/aarynverma/aarynverma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sharma01&show_icons=true&theme=tokyonight" alt="Aryan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarynverma&show_icons=true&theme=tokyonight" alt="Aryan's GitHub Stats" />
 </a>
 
 ### 👨‍💻 Total Visitors 
