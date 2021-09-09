@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 - 🔭 Currently working on ReactJS
-- 🌱 Learning Front end Web Development
+- 🌱 Learning Full Stack Web Development
 - 😄 Pronouns: He/Him
 - 💬 Let's talk about Trending Techs, Design Trends, Animations & Stuff.
 - 📫 Reach me at: <a href="mailto:aryn1776@gmail.com">aryn1776@gmail.com</a>
