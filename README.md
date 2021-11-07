@@ -2,7 +2,7 @@
   <img src="Software Engineer-white.gif" width="600px" />
 </p>
 
-## Hi there 👋
+## Hi there I'm ARYAN VERMA 👋
 
 - 🔭 Currently working on ReactJS
 - 🌱 Full Stack Developer
