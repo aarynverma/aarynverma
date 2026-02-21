@@ -20,7 +20,3 @@ I am a Senior Software Engineer with 4+ years of experience building high-perfor
 **State & Data:** Zustand, Redux Saga, TanStack Query, GraphQL  
 **AI & Dev:** GitHub Copilot, Cursor, LLM Workflows  
 **Backend:** Node.js, Express.js, Redis, Web3.js
-
-### 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarynverma&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarynverma&layout=compact&theme=dark&hide_border=true)
